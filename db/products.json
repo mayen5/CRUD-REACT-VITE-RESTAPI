@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "laptop",
+      "price": "1000",
+      "description": "Dell",
+      "inStock": true,
+      "id": 1
+    },
+    {
+      "name": "iMac",
+      "price": "12123",
+      "description": "pro",
+      "inStock": true,
+      "id": 3
+    },
+    {
+      "name": "iPad",
+      "price": "12321",
+      "description": "pro",
+      "inStock": true,
+      "id": 4
+    },
+    {
+      "name": "Mouse",
+      "price": "100",
+      "description": "Logitech gamer",
+      "inStock": true,
+      "id": 5
+    },
+    {
+      "name": "Keyboard",
+      "price": "150",
+      "description": "Dell",
+      "inStock": true,
+      "id": 6
+    }
+  ]
+}
